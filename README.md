@@ -31,7 +31,11 @@ Pro-Pass is a Vite React application that allows you to store your to-do list lo
 
     ```bash
     cd Pro-Pass
-3. Run the application:
+3. Install required dependencies:
+
+    ```bash
+    npm install
+4. Run the application:
 
     ```bash
     npm run dev
