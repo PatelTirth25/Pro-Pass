@@ -19,7 +19,7 @@ Pro-Pass is a Vite React application that allows you to store your to-do list lo
 
 ## Dependencies
 
-- npm and git package manager.
+- Git and npm package manager.
 
 ## Installation
 
