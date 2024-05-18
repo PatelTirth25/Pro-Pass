@@ -17,12 +17,6 @@ Pro-Pass is a Vite React application that allows you to store your to-do list lo
   - **Task Categorization:** Organize tasks by categories, tags, or projects.
   - **Due Dates and Reminders:** Set deadlines and reminders to keep track of important tasks.
 
-- **Customization:**
-  - **Themes and Layouts:** Offer different themes and layout options for personalization.
-  - **Sorting and Filtering:** Enable sorting tasks by priority, due date, or category, and filtering based on criteria.
-
-- **Backup and Sync:**
-  - **Local Backup:** Allow users to backup their data locally (e.g., exporting to a file).
 
 ## Installation
 
