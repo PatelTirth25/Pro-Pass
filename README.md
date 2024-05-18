@@ -23,7 +23,7 @@ Pro-Pass is a Vite React application that allows you to store your to-do list lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Pro-Pass.git
+   git clone https://github.com/PatelTirth25/Pro-Pass.git
 2. Navigate to the project directory:
 
     ```bash
